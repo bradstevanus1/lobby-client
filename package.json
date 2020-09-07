@@ -10,6 +10,13 @@
     "type": "git",
     "url": "git+https://github.com/bradstevanus1/lobby-client.git"
   },
+  "keywords": [
+    "realtime",
+    "websocket",
+    "tcp",
+    "socket.io",
+    "online"
+  ],
   "author": "Bradley Stevanus",
   "license": "MIT",
   "bugs": {

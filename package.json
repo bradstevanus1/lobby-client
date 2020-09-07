@@ -1,0 +1,19 @@
+{
+  "name": "lobby-client",
+  "version": "1.0.0",
+  "description": "The client for a small wrapper around websockets that handles lobbies. This client can connect to a server that has lobby-server installed and join a specific lobby which is identified by a string. Any client that wants to join the same lobby can use the same lobby string. A common use case for this package is to implement online multiplayer for games.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bradstevanus1/lobby-client.git"
+  },
+  "author": "Bradley Stevanus",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bradstevanus1/lobby-client/issues"
+  },
+  "homepage": "https://github.com/bradstevanus1/lobby-client#readme"
+}

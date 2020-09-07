@@ -18,7 +18,7 @@ const lobby = LobbyClient(
   "Chess Game 123", // Join lobby with this name or create one if it did not exist
   (json) => {
     // callback to specify what to do when other clients send json
-    doSomething(json);
+    movePiece(json);
   }
 );
 

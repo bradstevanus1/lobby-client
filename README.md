@@ -1,6 +1,6 @@
 # lobby-client
 
-A small wrapper around websockets that handles realtime connections to online lobbies.
+A small wrapper around websockets that handles realtime connections to online lobbies. The [lobby-server](https://www.npmjs.com/package/lobby-server "Lobby Server NPM Package") is needed to manage the pool of lobbies. When instantiating the LobbyClient below, the address and port that the lobby-server is listening on must be specified.
 
 ## Installation
 
